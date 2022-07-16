@@ -10,6 +10,8 @@ export default function TopBar() {
           fontWeight: "bold",
           padding: "1vh",
           paddingLeft: "3vh",
+          color:"white",
+          textShadow:"3px 3px black",
         }}
       >
         To Do Application
