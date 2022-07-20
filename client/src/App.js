@@ -10,8 +10,9 @@ function App() {
   }, 2000);
   return (
     <div>
-      {!t && <LoadingSc />}
-      {t && <Design />}
+      {/* {!t && <LoadingSc />}
+      {t && <Design />} */}
+      <Design />
     </div>
   );
 }
