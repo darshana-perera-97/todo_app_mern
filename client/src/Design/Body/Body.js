@@ -4,9 +4,8 @@ import Right from "./Right/Right";
 
 export default function Body() {
   return (
-    <div style={{ background: "rgba(255,255,255,0.2)", display: "flex" }}>
+    <div>
       <Left />
-      <Right />
     </div>
   );
 }
